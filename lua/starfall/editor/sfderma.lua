@@ -1223,7 +1223,6 @@ function PANEL:Init()
 			tostring(self.FontData.shadow),
 			tostring(self.FontData.outline),
 			self.FontData.blursize,
-			tostring(self.FontData.scanlines),
 			tostring(self.FontData.extended)},",")..")"),
 			tostring(self.FontData.scanlines)
 	end
